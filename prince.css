@@ -1,7 +1,9 @@
 .id{
     align-items: center;
-    color: darkgreen;
+    color: blue;
     margin: 100px 300px;
     border: 2px solid black;
     border-radius: 6px;
+    padding: 50px 50px;
+    font-size: 50px;
 }
